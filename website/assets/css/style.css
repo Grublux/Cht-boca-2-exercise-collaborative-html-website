@@ -1,6 +1,7 @@
 body{
     background: #BDBDBD;
 }
+
 .hero-image {
     background-image: url("../img/bg.jpg");
     background-position: center;
@@ -11,3 +12,8 @@ body{
 .hero-text {
     text-align: center;
 }
+
+span {
+    color: grey;
+  }
+
