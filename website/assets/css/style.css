@@ -8,10 +8,15 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    height: auto;
 }
 .hero-text {
     text-align: center;
     color: black;
+}
+.my-hero {
+    height: 50vh;
+    width: 100%;
 }
 
 span {
